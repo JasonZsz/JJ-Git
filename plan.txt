@@ -1,0 +1,2 @@
+git
+搭建个人博客 http://hexo.io/
